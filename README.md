@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 ### My Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daikidaxi)](https://github.com/daikidaxi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daikidaxi&layout=compact)](https://github.com/daikidaxi)
